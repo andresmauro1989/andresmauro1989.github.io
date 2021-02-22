@@ -3,28 +3,28 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8e0682d68e086f5d44617e5438695d98",
-"assets/assets/images/1.jpg": "d825d16cc411384f7574d536b1778ff5",
-"assets/assets/images/2.jpg": "0e7ef23e2fa5961b9e202ef0a21159d2",
-"assets/assets/images/3.jpg": "501a665936e4a3feef6224d404c75021",
-"assets/assets/images/4.jpg": "8b36b7e34f5bb636e41e225bcf8f5df3",
-"assets/assets/images/mastercard.png": "1694ccc1c01d7855a0b491f0d1cef6a0",
-"assets/assets/images/mastercard_black.png": "e039764a306231d378f4aad6d9d16259",
-"assets/assets/images/pexels-anni-roenkae-3435249-xsmall.jpg": "02a682c02d8df58882d8953b7378dc1d",
-"assets/assets/images/visa.png": "3252b8fb91b6f3e48359bf5270943ad9",
-"assets/assets/images/visa_blue.png": "176d77c5f927510ca1bddb662ee313bd",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "c907f65d9bb5b2fe57ff8c5017ebd93b",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+  "version.json": "4e3ad63af60b5099547e1a51d3619487",
+"index.html": "8c8d910ebe8e383763d625b8f2f1d072",
+"/": "8c8d910ebe8e383763d625b8f2f1d072",
+"main.dart.js": "b665c8e30df2a39771310dcc46932a60",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c6db2ee45f9abd6894c1f132abc8fbd2",
-"/": "c6db2ee45f9abd6894c1f132abc8fbd2",
-"main.dart.js": "ce4859a0293d5b2fc2d912dc473feada",
-"manifest.json": "05a4f38cc66930136d182e48e0c79bf8",
-"version.json": "4e3ad63af60b5099547e1a51d3619487"
+"manifest.json": "04402befe696ea250e65bd7fb0ccb935",
+"assets/AssetManifest.json": "7448f46665a98737e4f1e197b2bd917d",
+"assets/NOTICES": "d57dc915e64992eefccece7d335d5b92",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/assets/images/pexels-anni-roenkae-3435249-xsmall.jpg": "02a682c02d8df58882d8953b7378dc1d",
+"assets/assets/images/mastercard_black.png": "e039764a306231d378f4aad6d9d16259",
+"assets/assets/images/visa.png": "3252b8fb91b6f3e48359bf5270943ad9",
+"assets/assets/images/visa_blue.png": "176d77c5f927510ca1bddb662ee313bd",
+"assets/assets/images/4.jpg": "8b36b7e34f5bb636e41e225bcf8f5df3",
+"assets/assets/images/mastercard.png": "1694ccc1c01d7855a0b491f0d1cef6a0",
+"assets/assets/images/2.jpg": "0e7ef23e2fa5961b9e202ef0a21159d2",
+"assets/assets/images/3.jpg": "501a665936e4a3feef6224d404c75021",
+"assets/assets/images/1.jpg": "d825d16cc411384f7574d536b1778ff5"
 };
 
 // The application shell files that are downloaded before a service worker can
